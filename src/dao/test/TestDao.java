@@ -19,6 +19,7 @@ public class TestDao {
         List<Student> students = studentDao.queryMulti("select * from student where id >= ?", Student.class, 1);
         for(Student student:students){
             System.out.println(student);
+            System.out.println("git commit test");
         }
     }
 
