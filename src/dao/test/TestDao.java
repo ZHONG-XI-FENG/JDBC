@@ -22,6 +22,7 @@ public class TestDao {
             System.out.println("git commit test");
             System.out.println("git new branch 1 test");
             System.out.println("git new branch 1 2nd test");
+            System.out.println("git push to github 1st test");
         }
     }
 
