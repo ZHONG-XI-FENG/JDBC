@@ -21,7 +21,7 @@ public class TestDao {
             System.out.println(student);
             System.out.println("git commit test");
             System.out.println("git new branch 1 test");
-            System.out.println("git new branch 1 2nd test collision");
+            System.out.println("git new branch 1 2nd test");
         }
     }
 
